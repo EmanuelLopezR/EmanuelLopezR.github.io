@@ -1,0 +1,22 @@
+body {
+    background-color: lightseagreen
+  }
+  
+  h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 60px;
+    color: black;
+  }
+
+
+  p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    color: white;
+  }
+  
+  div {
+    background-color: white;
+    width: 900px;
+    color: black;
+  }
